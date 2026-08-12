@@ -15,7 +15,6 @@ Sou estudante do 6º período de Sistemas de Informação no **Instituto Federal
 **Inteligência Artificial:** YOLOv8 | Visão Computacional | CVAT.ai | LabelImg  
 
 ## 📊 Status do GitHub
-## 📊 Status do GitHub
 
 [![Status do GitHub de Ryan](https://github-readme-stats.vercel.app/api?username=ryanv9695-boop&show_icons=true&theme=radical)](https://github.com/ryanv9695-boop)
 
