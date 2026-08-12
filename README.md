@@ -6,8 +6,8 @@ Sou estudante do 6º período de Sistemas de Informação no **Instituto Federal
 - 💻 Foco atual de desenvolvimento: **Java, Spring Boot e Python**.
 - 🧠 Estudando e aplicando: **Visão Computacional, Machine Learning e YOLOv8**.
 - 🛠️ Ferramentas & Práticas: Git, GitHub, estruturação HTML/CSS, anotação de dados (CVAT.ai / LabelImg) e metodologias ágeis (Trello).
-- 📚 Focado no aprimoramento contínuo através da resolução de algoritmos complexos e aplicação de boas práticas de código no [Exercism].
-- 🌱 Atualmente desenvolvendo o **Projeto Integrador II** e contribuindo no projeto **SAFA**.
+- 📚 Focado no aprimoramento contínuo através da resolução de algoritmos complexos e aplicação de boas práticas de código no [Exercism](https://exercism.org).
+- 🌱 Atualmente colaborando no desenvolvimento backend do **Projeto Integrador II** e contribuindo no projeto **SAFA**.
 
 ## 🛠️ Tecnologias e Ferramentas
 **Backend:** Java | Spring Boot | Python  
@@ -15,6 +15,8 @@ Sou estudante do 6º período de Sistemas de Informação no **Instituto Federal
 **Inteligência Artificial:** YOLOv8 | Visão Computacional | CVAT.ai | LabelImg  
 
 ## 📊 Status do GitHub
-<!-- Você pode gerar stats dinâmicos usando o GitHub Readme Stats -->
-![Status do GitHub de Ryan](https://github-readme-stats.vercel.app/api?username=ryanv9695-boop&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanv9695-boop&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanv9695-boop&show_icons=true&theme=radical" alt="Status do GitHub de Ryan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanv9695-boop&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
